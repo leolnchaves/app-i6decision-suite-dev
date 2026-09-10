@@ -1,1 +1,0 @@
-import{r as e}from"./useRouter-B64lGpJS.js";import{i as t}from"./index-Ba0t4ris.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
