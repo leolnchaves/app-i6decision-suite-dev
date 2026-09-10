@@ -1,1 +1,0 @@
-import{n as e,t}from"./createServerFn-BOKwoxzu.js";import{t as n}from"./session-middleware-JDjVgB0Q.js";var r=t({method:`POST`}).middleware([n]).handler(e(`31f6671e12a6be2af1f960a4ac60472364e910cbada5e52e0d376b73c5cd0394`));export{r as callBusinessData};

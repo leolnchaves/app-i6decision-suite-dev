@@ -1,0 +1,1 @@
+import{o as e}from"./useRouter-B64lGpJS.js";var t=e({mockPlatformAccessAdapter:()=>r}),n={"ad39c364-c7ce-51ff-8224-bd4cfff28e4f":`superadmin`},r={async resolvePlatformRole(e){return n[e.subjectId]??null}};export{t as n,r as t};

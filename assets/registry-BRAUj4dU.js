@@ -1,0 +1,1 @@
+var e=[`pt-BR`,`en-US`,`es-ES`],t=`pt-BR`,n=[`BRL`,`USD`,`EUR`],r=`America/Sao_Paulo`,i={"pt-BR":`Português (Brasil)`,"en-US":`English (US)`,"es-ES":`Español (España)`};function a(t){return typeof t==`string`&&e.includes(t)}function o(e){return typeof e==`string`&&n.includes(e)}export{e as a,n as i,r as n,o,i as r,a as s,t};

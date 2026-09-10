@@ -1,0 +1,1 @@
+import{t as e}from"./discovery-domain.store-h9Kw9Ukb.js";var t={resetDomain(t){e(t)}};export{t as discoveryDomainTestControl};

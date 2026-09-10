@@ -1,0 +1,1 @@
+var e=`/admin`,t={superadmin:[`platform:access`,`platform:lab`,`platform:tenants_read`,`platform:tenants_provision`,`platform:audit_read`,`platform:support_session_start`,`platform:support_session_elevate`]};function n(e){return[...t[e]??[]]}export{n,e as t};
