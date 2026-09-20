@@ -1,1 +1,0 @@
-import{r as e}from"./useRouter-B64lGpJS.js";import{n as t}from"./application-session-CN6ZP16w.js";import{t as n}from"./product-route-page-opoYj3Nq.js";var r=e(),i=()=>(0,r.jsx)(t,{children:(0,r.jsx)(n,{productId:`targeting`})});export{i as component};
