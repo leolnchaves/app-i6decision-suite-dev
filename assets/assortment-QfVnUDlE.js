@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{n as t}from"./application-session-CzbNedXC.js";import{t as n}from"./product-route-page-XbVGHKo2.js";var r=e(),i=()=>(0,r.jsx)(t,{children:(0,r.jsx)(n,{productId:`assortment`})});export{i as component};
