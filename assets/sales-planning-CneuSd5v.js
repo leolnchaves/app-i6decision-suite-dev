@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{n as t}from"./application-session-AXBKaUtw.js";import{t as n}from"./product-route-page-Kx8-okRn.js";var r=e(),i=()=>(0,r.jsx)(t,{children:(0,r.jsx)(n,{productId:`sales-planning`})});export{i as component};
